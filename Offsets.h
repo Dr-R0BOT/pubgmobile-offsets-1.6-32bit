@@ -2,7 +2,7 @@
 
 #include "Includes.h"
 
-namespace Offsets
+namespace Offset
 {
 	const DWORD GWorld = 0x490A84;
 	const DWORD GName = 0x1D5CEC + 0x14C;
